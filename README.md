@@ -1,4 +1,4 @@
-# **JSRecorder: Simple JavaScript Screen Recorder**
+# [**JSRecorder: Simple JavaScript Screen Recorder**](https://jsrecorder.netlify.app/)
 
 ![Screenshot of JSRecorder Live Demo](assets/screenshots/screenshot-of-jsrecorder-live-demo.png)
 
@@ -8,7 +8,7 @@ Screen Recorder built using HTML, CSS, and JavaScript.
 
 - [Summary](#summary)
 - [Usage](#usage)
-<!-- - [Installation](#installation) -->
+- [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 
@@ -20,7 +20,7 @@ A simple screen recorder built using the Screen Capture API that allows users to
 
 To record your screen:
 
-1. Navigate to the live demo
+1. Navigate to the [live demo](https://jsrecorder.netlify.app/)
 
 2. Click the `Start Recording` button
 
@@ -30,19 +30,19 @@ To record your screen:
 
 5. Save the recording on your local machine after you stop the recording
 
-<!-- ## Installation
+## Installation
 
 1. Clone this repository to your local machine:
 
    ```bash
-    git clone https://github.com/khamisilawrence/*.git
+    git clone https://github.com/khamisilawrence/jsrecorder.git
    ```
 
 2. Navigate to repository:
 
    ```bash
-    cd *
-   ``` -->
+    cd jsrecorder
+   ```
 
 ## Screenshots
 
